@@ -35,7 +35,7 @@ import java.util.Map;
  * User user = new TypeReference<User>(){}.parseObject(text);
  * }</pre>
  *
- * @param <T> the type refered to
+ * @param <T> the type referred to
  * @author wenshao[szujobs@hotmail.com]
  * @since 2.0.2
  */
